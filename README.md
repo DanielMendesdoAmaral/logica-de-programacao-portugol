@@ -1,0 +1,2 @@
+# logica-de-programacao-portugol
+Meus primeiros contatos com a programação foram através do curso de Lógica de Programação e Algoritmos, ofertado pelo canal do youtube Curso em Vídeo. Com este curso, aprendi conceitos básicos, porém muito úteis, de programação. Entre os diversos conceitos fundamentais, aprendi a lógica por trás de algoritmos, da forma como devo escrevê-los, de estruturas complexas como condicionais ou de repetição, de vetores, matrizes, etc. O ano de início e de conclusão do curso foi 2019, quando eu tinha 16 anos.
